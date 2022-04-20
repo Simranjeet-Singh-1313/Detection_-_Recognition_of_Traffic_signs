@@ -1,1 +1,1 @@
-# Detection_-_Recognition_of_Traffic_signs
+# Detection_&_Recognition_of_Traffic_signs
